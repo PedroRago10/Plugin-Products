@@ -1,0 +1,231 @@
+{
+    "business-cards": {
+      "Shapes": [
+        { "value": "", "text": "" },
+        { "value": "PRD-IYXT1T3V=7", "text": "Standard" },
+        { "value": "PRD-GURNTEDA=16", "text": "Rounded Corner" },
+        { "value": "PRD-40GK1WRI=15", "text": "Square" }
+      ],
+      "Traditional Cards": [
+        { "value": "PRD-LKKFLWV6=9", "text": "Matte" },
+        { "value": "PRD-15BJSMMI=11", "text": "Glossy" }
+      ],
+      "Premium Cards": [
+        { "value": "PRD-CRHN2BKI=13", "text": "Foil Accent" },
+        { "value": "PRD-WJIDFUBS=10", "text": "Embossed Gloss" },
+        { "value": "PRD-TLC4SQLTO=10", "text": "Raised Foil" },
+        { "value": "PRD-FRHRB9BX=6", "text": "Natural Textured" },
+        { "value": "PRD-4OVSFBSP=14", "text": "Soft Touch" },
+        { "value": "PRD-4UKBIHZFK=4", "text": "Bamboo" },
+        { "value": "PRD-ONW65ET0=8", "text": "Linen" },
+        { "value": "PRD-MMH9IFIJ=13", "text": "Kraft" }
+      ],
+      "Deluxe Cards": [
+        { "value": "PRD-KKS53PHP=7", "text": "Premium Plus" },
+        { "value": "PRD-UCFDUXVA4=12", "text": "Painted Edge" },
+        { "value": "PRD-3IWZDBGN=11", "text": "Ultra Thick" },
+        { "value": "PRD-5SP4HOJQ=21", "text": "Plastic" },
+        { "value": "PRD-LMOYJN4WB=5", "text": "Durable" }
+      ],
+      "Digital Business Cards": [
+        { "value": "PRD-SJPOHV4MZ=10", "text": "QR Code Business Cards" }
+      ],
+      "Looking for more?": [
+        { "value": "PRD-YKA4PY7C=14", "text": "Magnetic Business Cards" },
+        { "value": "PRD-L82LBHB6=11", "text": "Business Card Stickers" },
+        { "value": "PRD-N4BJKPUW=9", "text": "Loyalty Cards" },
+        { "value": "PRD-NYHMLXAW7=3", "text": "Free Business Card Sample Kit" }
+      ],
+      "Business Card Holders": [
+        { "value": "PRD-GSMZLFEF=2", "text": "Metal Business Card Holders" },
+        { "value": "PRD-89GALYV9=3", "text": "Engraved Metal Business Card Holders" },
+        { "value": "PRD-DFBAUSF8V=7", "text": "Aluminum Business Card Holders" }
+      ]
+    },
+    "postcards": {
+      "Postcards": [
+        { "value": "", "text": "" },
+        { "value": "PRD-JHBKMJNB=67", "text": "Postcards" },
+        { "value": "PRD-SJXWQYWJ=16", "text": "Postcard Magnets" },
+        { "value": "PRD-BNCH3NL62=6", "text": "Packaging Insert Cards" }
+      ],
+      "Advertising": [
+        { "value": "PRD-F2EJ5DIT=26", "text": "Flyers" },
+        { "value": "PRD-GKOHBO596=5", "text": "Perforated Flyers" },
+        { "value": "PRD-CTNYEUWW=44", "text": "Brochures" },
+        { "value": "PRD-ZEJSZF3S=11", "text": "Door Hangers" },
+        { "value": "PRD-XSRTQHXD=17", "text": "Rack Cards" },
+        { "value": "PRD-E6MYPNNQQ=3", "text": "Refrigerator Magnets" },
+        { "value": "PRD-YKA4PY7C=14", "text": "Magnetic Business Cards" },
+        { "value": "PRD-SJXWQYWJ=16", "text": "Postcard Magnets" },
+        { "value": "PRD-RRQ4WOYA=11", "text": "Magnetic Calendars" },
+        { "value": "PRD-EDT51BHH=6", "text": "Car Magnets" },
+        { "value": "PRD-C523G7XQ=9", "text": "Table Tents" },
+        { "value": "PRD-RNPIDSWJ=28", "text": "Menus" },
+        { "value": "PRD-G6UZIHNM=8", "text": "Booklets" },
+        { "value": "PRD-JAR1TVGZU=3", "text": "Custom Tickets" }
+      ],
+      "More Business Essentials": [
+        { "value": "PRD-ZMIEC1QY=29", "text": "Presentation Folders" },
+        { "value": "PRD-RRQ4WOYA=11", "text": "Magnetic Calendars" },
+        { "value": "PRD-G3SQ16F8=17", "text": "Notebooks" },
+        { "value": "PRD-EDHM9OOU=14", "text": "Gift Certificates" },
+        { "value": "PRD-U71ICPRJ=7", "text": "Bookmarks" }
+      ],
+      "Business Support": [
+        { "value": "PRD-YHZ5AK8DM=3", "text": "Free Business Sample Kit" }
+      ]
+    },
+    "signs": {
+      "Banners": [
+        { "value": "PRD-XKHDONHL=28", "text": "Vinyl Banners" },
+        { "value": "PRD-XGI2LOD9O=8", "text": "Pole Banners" },
+        { "value": "PRD-1Z57IGIGH=14", "text": "Double-Sided Banners" },
+        { "value": "PRD-BFBL4NNO=15", "text": "Mesh Banners" },
+        { "value": "PRD-LQFILNUZ=16", "text": "Fabric Banners" },
+        { "value": "PRD-LQFILNUZ=10", "text": "Pennant Banners" }
+      ],
+      "Retractable Banners": [
+        { "value": "PRD-NLRHYQSJ=39", "text": "Retractable Banners" }
+      ],
+      "Outdoor Signs": [
+        { "value": "PRD-R1AJEBVL=33", "text": "Yard Signs" },
+        { "value": "PRD-NO2UUWVN=26", "text": "Flags" },
+        { "value": "PRD-M0AP7SMH=20", "text": "Signicade®" },
+        { "value": "PRD-IAJ6NLMG=10", "text": "A-Frames" },
+        { "value": "PRD-PMCHJKBS=2", "text": "Chalkboard Signs" }
+      ],
+      "Car Signs": [
+        { "value": "PRD-EDT51BHH=6", "text": "Car Magnets" },
+        { "value": "PRD-XROFY2WA=7", "text": "Car Door Decals" },
+        { "value": "PRD-4NU4FPKG=4", "text": "Car Window Decals" },
+        { "value": "PRD-BTHRKFRF=7", "text": "Bumper Stickers" }
+      ],
+      "Posters": [
+        { "value": "PRD-HSKBMXYA=26", "text": "Posters" },
+        { "value": "PRD-BFPOUIIR=9", "text": "Foam Boards" },
+        { "value": "PRD-9VJ1ZQGC1=6", "text": "PVC-Free Board Signs" }
+      ],
+      "Decals": [
+        { "value": "PRD-UDXWFJOSB=2", "text": "Wall Decals" },
+        { "value": "PRD-TOSQXNJD=9", "text": "Custom Window Decals" },
+        { "value": "PRD-2RT8ANDBB=6", "text": "Window Clings" },
+        { "value": "PRD-7AKLUSA5P=6", "text": "Perforated Window Vinyl" },
+        { "value": "PRD-US26JIBB=3", "text": "Custom Floor Decals" }
+      ],
+      "Table Coverings": [
+        { "value": "PRD-P6MRPLBS=20", "text": "Custom Tablecloths" },
+        { "value": "PRD-SGSCYO0U=10", "text": "Table Runners" },
+        { "value": "PRD-YSORLLUJ=5", "text": "Blank Tablecloths" }
+      ],
+      "Trade Show Displays": [
+        { "value": "PRD-SDNLKFBO=13", "text": "Pop-Up Displays" },
+        { "value": "PRD-T2OU2YBXG=10", "text": "Tension Fabric Displays" },
+        { "value": "PRD-VZFDERJK=12", "text": "Tabletop Signs" },
+        { "value": "PRD-SQJSRHWR=16", "text": "Canopy Tents" }
+      ],
+      "Rigid Signs": [
+        { "value": "PRD-KPIMAABYJ=4", "text": "Corrugated A-Frame Signs" },
+        { "value": "PRD-RWOHRJE2=6", "text": "Metal Signs" },
+        { "value": "PRD-64L0F4EC=4", "text": "Plastic Signs" },
+        { "value": "PRD-C2LMIJBZ=9", "text": "Acrylic Signs" },
+        { "value": "PRD-MHFMTIY2=7", "text": "Floor Standups" }
+      ],
+      "Office Signs": [
+        { "value": "PRD-LJE2OYSE=7", "text": "Canvas Signs" },
+        { "value": "PRD-E0FNIRW0=21", "text": "Engraved Door Signs" },
+        { "value": "PRD-SSOYCVF7=15", "text": "Desk Name Plates" },
+        { "value": "PRD-AHYJY00R=3", "text": "Restroom Signs" },
+        { "value": "PRD-LTUWBUX3=3", "text": "Wayfinding Signs" },
+        { "value": "PRD-G7UHAHFX=5", "text": "Plastic Door Signs" }
+      ]
+    },
+    "labels": {
+      "Custom Labels": [
+        { "value": "", "text": "" },
+        { "value": "PRD-DF5PWTHC=37", "text": "Roll Labels" },
+        { "value": "PRD-WOAOGCWL=14", "text": "Return Address Labels" },
+        { "value": "PRD-LDDVZZ2Z=11", "text": "Product Labels on Sheets" },
+        { "value": "PRD-I8CDD4VTA=4", "text": "Waterproof Labels" },
+        { "value": "PRD-FEJPBPGWF=9", "text": "Packaging Labels" },
+        { "value": "PRD-HMFICJEF=9", "text": "Mailing Labels" },
+        { "value": "PRD-BWQ8GST1L=29", "text": "Die-Cut Roll Labels" },
+        { "value": "PRD-8GPNVH4F=5", "text": "Envelope Seals" },
+        { "value": "PRD-6JP2MB8M=12", "text": "Jar Labels" }
+      ],
+      "Business Essentials": [
+        { "value": "PRD-3OJSQKEH=20", "text": "Business Stickers" },
+        { "value": "PRD-L82LBHB6=11", "text": "Business Card Stickers" },
+        { "value": "PRD-Z0FWR2XZ=11", "text": "Letterhead Stickers" },
+        { "value": "PRD-SSXJOZYS=7", "text": "Promotional Stickers" }
+      ],
+      "Product Labels": [
+        { "value": "PRD-3OJSQKEH=20", "text": "Business Stickers" },
+        { "value": "PRD-L82LBHB6=11", "text": "Business Card Stickers" },
+        { "value": "PRD-Z0FWR2XZ=11", "text": "Letterhead Stickers" },
+        { "value": "PRD-SSXJOZYS=7", "text": "Promotional Stickers" }
+      ],
+      "Packaging Labels": [
+        { "value": "PRD-FEJPBPGWF=9", "text": "Packaging Labels" },
+        { "value": "PRD-6JYVXX7C=10", "text": "Kraft Labels" },
+        { "value": "PRD-Z0FWR2XZ=11", "text": "Letterhead Stickers" }
+      ],
+      "Events": [
+        { "value": "PRD-1F3DAHYI=23", "text": "Wedding Stickers" },
+        { "value": "PRD-1Y1BJEVX=14", "text": "Birthday Stickers" },
+        { "value": "PRD-QD6VEYBU=11", "text": "Holiday Stickers" }
+      ]
+    },
+    "packaging": {
+      "Custom Boxes": [
+        { "value": "PRD-5FY5BOZ1=17", "text": "Custom Packaging Boxes" },
+        { "value": "PRD-5FY5BOZ1=10", "text": "Folding Carton Boxes" },
+        { "value": "PRD-1BVDVBQS=7", "text": "Mailer Boxes" },
+        { "value": "PRD-7AT6TRBU=7", "text": "Rigid Boxes" },
+        { "value": "PRD-UIOL0Z6Q=3", "text": "Corrugated Boxes" },
+        { "value": "PRD-V14C4KAO=3", "text": "Product Boxes" },
+        { "value": "PRD-AMJWREHM=5", "text": "Gift Boxes" },
+        { "value": "PRD-IEJLDAKZ=6", "text": "Dispenser Boxes" }
+      ],
+      "Custom Labels": [
+        { "value": "PRD-DF5PWTHC=37", "text": "Roll Labels" },
+        { "value": "PRD-WOAOGCWL=14", "text": "Return Address Labels" },
+        { "value": "PRD-LDDVZZ2Z=11", "text": "Product Labels on Sheets" },
+        { "value": "PRD-I8CDD4VTA=4", "text": "Waterproof Labels" },
+        { "value": "PRD-FEJPBPGWF=9", "text": "Packaging Labels" },
+        { "value": "PRD-HMFICJEF=9", "text": "Mailing Labels" },
+        { "value": "PRD-BWQ8GST1L=29", "text": "Die-Cut Roll Labels" },
+        { "value": "PRD-8GPNVH4F=5", "text": "Envelope Seals" },
+        { "value": "PRD-6JP2MB8M=12", "text": "Jar Labels" }
+      ],
+      "Bags": [
+        { "value": "PRD-J6Y1FIML=8", "text": "Paper Bags" },
+        { "value": "PRD-IE5YCMJD=6", "text": "Plastic Bags" },
+        { "value": "PRD-TK1IBV3L=5", "text": "Shopping Bags" },
+        { "value": "PRD-YS2RKUBZ=4", "text": "Grocery Bags" },
+        { "value": "PRD-ZMIEC1QY=29", "text": "Presentation Folders" }
+      ],
+      "Stickers": [
+        { "value": "PRD-SSXJOZYS=7", "text": "Promotional Stickers" },
+        { "value": "PRD-3OJSQKEH=20", "text": "Business Stickers" },
+        { "value": "PRD-AGZJODQD=10", "text": "Round Stickers" },
+        { "value": "PRD-PVLCJ3C1=4", "text": "Oval Stickers" },
+        { "value": "PRD-SSXJOZYS=7", "text": "Promotional Stickers" },
+        { "value": "PRD-L82LBHB6=11", "text": "Business Card Stickers" }
+      ],
+      "Product Labels": [
+        { "value": "PRD-3OJSQKEH=20", "text": "Business Stickers" },
+        { "value": "PRD-L82LBHB6=11", "text": "Business Card Stickers" },
+        { "value": "PRD-Z0FWR2XZ=11", "text": "Letterhead Stickers" },
+        { "value": "PRD-SSXJOZYS=7", "text": "Promotional Stickers" }
+      ],
+      "Roll Labels": [
+        { "value": "PRD-DF5PWTHC=37", "text": "Roll Labels" },
+        { "value": "PRD-BXOHBYK1=5", "text": "Clear Labels" },
+        { "value": "PRD-SOTDXHZK=4", "text": "Roll Labels on Sheets" },
+        { "value": "PRD-Z6MWPFOM=4", "text": "Roll Labels on Rolls" },
+        { "value": "PRD-4NU4FPKG=4", "text": "Car Window Decals" }
+      ]
+    }
+  }
+  

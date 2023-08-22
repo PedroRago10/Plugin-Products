@@ -1,0 +1,62 @@
+.form-check {
+    margin-bottom: 1em;
+}
+.form-check input {
+    border-radius: 3px;
+    max-width: unset;
+    margin: 0;
+    width: 1.5em;
+    height: 1.5em;
+}
+.form-check label {
+    font-size: 1.2em;
+    margin-left: 0.3em;
+    transition: .3s ease-out;
+}
+.form-check label:hover {
+    color: #135e96;
+}
+.products select {
+    display: none;
+    padding: 0.5em 1.5em;
+}
+.options-selects div {
+    width: 40%;
+}
+.insearch {
+    filter: blur(4px);
+}
+.loading {
+    display: none;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: 999999;
+}
+.loading .container {
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.feedback {
+    text-align: center;
+}
+.feedback .feedback-product {
+    margin-bottom: -4px;
+}
+.feedback .feedback-variations {
+    display: flex;
+    align-items: center;
+}
+.feedback .feedback-variations p {
+    margin-right: 0.5em
+}
+.feedback .feedback-variations b {
+    margin-right: 0.3em
+}
+.feedback .feedback-variations span {
+    margin-left: 0.3em
+}
