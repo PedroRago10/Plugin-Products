@@ -29,9 +29,6 @@ Este projeto é um plugin WordPress desenvolvido para realizar scraping de produ
 ## Desenvolvimento Adicional
 Se desejar contribuir para o desenvolvimento deste projeto, sinta-se à vontade para criar um fork do repositório e enviar pull requests com melhorias.
 
-## Licença
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE.md](LICENSE.md) para obter detalhes.
-
 ## Autor
-Este projeto foi desenvolvido por [Seu Nome].
+Este projeto foi desenvolvido por Pedro Rago.
 
